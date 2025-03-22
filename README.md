@@ -7,11 +7,11 @@
 <p>&nbsp;</p>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/belapferreira/amplemarkt-challenge">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/belapferreira/amplemarket-challenge">
 
   <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26">
 
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/belapferreira/amplemarkt-challenge?style=social">
+  <img alt="GitHub stars" src="https://img.shields.io/github/stars/belapferreira/amplemarket-challenge?style=social">
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ The settings to execute the application on your computer are listed below.
 
 ```bash
 # cloning the repository
-git clone https://github.com/belapferreira/amplemarkt-challenge
+git clone https://github.com/belapferreira/amplemarket-challenge
 ```
 
 ### :beginner: Starting the application
@@ -82,7 +82,7 @@ This project was developed using the following resources:
 
 ### :memo: License
 
-This project is under MIT license. See [LICENSE](https://github.com/belapferreira/amplemarkt-challenge/blob/master/LICENSE) for more information.
+This project is under MIT license. See [LICENSE](https://github.com/belapferreira/amplemarket-challenge/blob/master/LICENSE) for more information.
 
 ---
 
